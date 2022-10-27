@@ -17,3 +17,6 @@ My solutions for the css battle site from the https://cssbattle.dev/
 
 [challenge 05](https://cssbattle.dev/play/5)
 [solution 05](solution05.html)
+
+[challenge 06](https://cssbattle.dev/play/6)
+[solution 06](solution06.html)
