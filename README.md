@@ -23,3 +23,6 @@ My solutions for the css battle site from the https://cssbattle.dev/
 
 [challenge 07](https://cssbattle.dev/play/7)
 [solution 07](solution07.html)
+
+[challenge 08](https://cssbattle.dev/play/8)
+[solution 08](solution08.html)
