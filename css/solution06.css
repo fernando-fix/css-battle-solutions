@@ -1,0 +1,30 @@
+body {
+    background-color: #E3516E;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.div1 {
+    right: 50%;
+    bottom: 50%;
+    border-radius: 100% 0 0 0;
+    background: #51B5A9;
+}
+
+.div2 {
+    left: 50%;
+    bottom: 50%;
+    border-radius: 0 100% 0 0;
+    background: #FADE8B;
+}
+
+.div3 {
+    right: 50%;
+    top: 50%;
+    border-radius: 0 0 0 100%;
+    background: #F7F3D7;
+}
