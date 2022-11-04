@@ -1,0 +1,34 @@
+body {
+    background-color: #62306D;
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    position: relative;
+}
+
+div:nth-of-type(2) {
+    height: 200px
+}
+
+div:nth-of-type(2):after {
+    border: solid 20px #E38F66;
+    background-color: #AA445F;
+}
+
+div:after {
+    content: '';
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    background-color: #E38F66;
+    transform: translate(0, -50%);
+    border-radius: 50%;
+    border: 20px solid #AA445F;
+}
