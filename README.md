@@ -29,3 +29,15 @@ My solutions for the css battle site from the https://cssbattle.dev/
 
 [challenge 09](https://cssbattle.dev/play/9)
 [solution 09](solution09.html)
+
+[challenge 10](https://cssbattle.dev/play/10)
+[solution 10](solution10.html)
+
+[challenge 11](https://cssbattle.dev/play/11)
+[solution 11](solution11.html)
+
+[challenge 12](https://cssbattle.dev/play/12)
+[solution 12](solution12.html)
+
+[challenge 13](https://cssbattle.dev/play/13)
+[solution 13](solution13.html)
