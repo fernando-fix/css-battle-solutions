@@ -41,3 +41,6 @@ My solutions for the css battle site from the https://cssbattle.dev/
 
 [challenge 13](https://cssbattle.dev/play/13)
 [solution 13](solution13.html)
+
+[challenge 14](https://cssbattle.dev/play/14)
+[solution 14](solution14.html)
