@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: #09042A;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 150px;
+}
+
+.circle {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #dd6b4d;
+}
+
+.circle:nth-child(1) {
+    left: 0;
+    background-color: #7B3F61;
+}
+
+.circle:nth-child(2) {
+    right: 0px;
+    background-color: #E78481;
+    overflow: hidden;
+}
+
+.inner {
+    position: absolute;
+    transform: translate(-100px);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #09042A;
+}
