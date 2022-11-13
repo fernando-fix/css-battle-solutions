@@ -50,3 +50,6 @@ My solutions for the css battle site from the https://cssbattle.dev/
 
 [challenge 16](https://cssbattle.dev/play/16)
 [solution 16](solution16.html)
+
+[challenge 17](https://cssbattle.dev/play/17)
+[solution 17](solution17.html)
