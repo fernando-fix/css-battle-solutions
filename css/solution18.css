@@ -1,0 +1,33 @@
+* {
+    border: 0;
+}
+
+body {
+    background-color: #5C434C;
+    padding: 2px;
+}
+
+.bow {
+    width: 80px;
+    height: 80px;
+    border-radius: 100% 0 0 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    height: 100%;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.orange {
+    background-color: #F09462;
+}
+
+.yellow {
+    background-color: #F5D6B4;
+}
