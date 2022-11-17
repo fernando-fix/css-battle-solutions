@@ -82,3 +82,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 20](https://cssbattle.dev/play/20)
 [html solution 20](solution20.html)
 [css solution 20](css/solution20.css)
+
+[challenge 21](https://cssbattle.dev/play/21)
+[html solution 21](solution21.html)
+[css solution 21](css/solution21.css)
