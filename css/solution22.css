@@ -1,0 +1,40 @@
+body {
+    background: #F5D6B4;
+}
+
+.box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 130px;
+}
+
+.bigball {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background: #D86F45;
+    border-radius: 50%;
+}
+
+.trace {
+    position: absolute;
+    height: 50px;
+    width: 170px;
+    background: #D86F45;
+    border-radius: 25px;
+}
+
+.pos1 {
+    bottom: 0px;
+}
+
+.pos2 {
+    right: 20px;
+}
+
+.pos3 {
+    right: 0px;
+}
