@@ -90,3 +90,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 22](https://cssbattle.dev/play/22)
 [html solution 22](solution22.html)
 [css solution 22](css/solution22.css)
+
+[challenge 23](https://cssbattle.dev/play/23)
+[html solution 23](solution23.html)
+[css solution 23](css/solution23.css)
