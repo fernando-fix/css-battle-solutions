@@ -1,0 +1,59 @@
+body {
+    background: #62306D;
+}
+
+.box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 240px;
+    height: 200px;
+}
+
+.ball {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.oblong {
+    position: absolute;
+    width: 100px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+.top {
+    top: 0;
+}
+
+.bottom {
+    bottom: 0;
+}
+
+.right {
+    right: 0;
+}
+
+.left {
+    left: 0;
+}
+
+.mid {
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.yellow {
+    background-color: #F7EC7D;
+}
+
+.purple {
+    background-color: #AA445F;
+}
+
+.orange {
+    background-color: #E38F66;
+}
