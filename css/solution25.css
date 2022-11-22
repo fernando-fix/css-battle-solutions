@@ -1,0 +1,48 @@
+body {
+    background-color: #998235;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 180px;
+    height: 180px;
+}
+
+.bigleaf {
+    position: absolute;
+    background: #1A4341;
+    height: 100px;
+    width: 80px;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.smleaf {
+    position: absolute;
+    background: #F3AC3C;
+    height: 60px;
+    width: 80px;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.top {
+    top: 0;
+}
+
+.bottom {
+    bottom: 0;
+}
+
+.left {
+    left: 0;
+}
+
+.right {
+    right: 0;
+}
+
+.mirror {
+    transform: scale(-1, 1);
+}
