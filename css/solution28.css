@@ -1,0 +1,50 @@
+body {
+    background-color: #1A4341;
+}
+
+.yellow {
+    background-color: #F3AC3C;
+}
+
+.d-yellow {
+    background-color: #998235;
+}
+
+.top {
+  align-items: start;
+}
+
+.bottom {
+  align-items: end;
+}
+
+.reverse {
+  transform: rotate(180deg);
+}
+.ball {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.mountain {
+    height: 50px;
+    width: 50px;
+    border-radius: 50% 50% 0 0;
+}
+
+.box {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bigbox {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 260px;
+    height: 120px;
+}
