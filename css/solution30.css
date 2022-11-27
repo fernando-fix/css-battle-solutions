@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.item:nth-of-type(1) {
+    height: 50px;
+    background: #F7EC7D;
+}
+
+.item:nth-of-type(2) {
+    height: 50px;
+    background: #E38F66;
+}
+
+.item:nth-of-type(3) {
+    height: 100px;
+    background: #AA445F;
+}
+
+.item:nth-of-type(4) {
+    height: 100px;
+    background: #62306D;
+}
