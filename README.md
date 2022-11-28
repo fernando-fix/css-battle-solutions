@@ -122,3 +122,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 30](https://cssbattle.dev/play/30)
 [html solution 30](solution30.html)
 [css solution 30](css/solution30.css)
+
+[challenge 31](https://cssbattle.dev/play/31)
+[html solution 31](solution31.html)
+[css solution 31](css/solution31.css)

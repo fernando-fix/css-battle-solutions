@@ -1,0 +1,32 @@
+body {
+    background-color: #AA445F;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ball {
+    display: block;
+    height: 200px;
+    width: 100px;
+    background-color: red;
+
+}
+
+.left {
+    border-radius: 200px 0 0 200px;
+    background-color: #F7EC7D;
+}
+
+.right {
+    border-radius: 0 200px 200px 0;
+    background-color: #E38F66;
+}
