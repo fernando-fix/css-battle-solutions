@@ -1,48 +1,39 @@
-/* Configuration */
 :root {
-    --color1: #1A4341;
-    --color2: #998235;
-    --color3: #F3AC3C;
-    --color4: #0B2429;
-}
-
-.center {
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    --color01: #007065;
+    --color02: #FFEECF;
+    --color03: #F5C181;
+    --color04: #00A79D;
+    --tr-height: 100px;
+    --tr-width: 125px;
 }
 
 body {
-    background-color: var(--color1);
+    background-color: var(--color01);
+    margin: 0;
 }
 
-/* Elements */
-.item {
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
-    background-image: linear-gradient(to right, var(--color2) 50%, var(--color1) 50%);
-}
-
-.item:before,
-.item:after {
-    content: "";
+div {
     position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-top: none;
+    border: var(--tr-width) solid transparent;
 }
 
-.item:before {
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    background-color: var(--color4);
-    transform: translate(30px, 30px)
+div:nth-of-type(1) {
+    transform: translate(-50%, 100px);
+    border-bottom: var(--tr-height) solid var(--color04);
 }
 
-.item:after {
-    height: 100px;
-    width: 100px;
-    border-radius: 0 100% 0 0;
-    background-color: var(--color3);
-    transform: translate(75px, -25px)
+div:nth-of-type(2) {
+    transform: translate(-50%, 50px);
+    border-bottom: var(--tr-height) solid var(--color03);
+}
+
+div:nth-of-type(3) {
+    transform: translate(-50%, 0%);
+    border-bottom: var(--tr-height) solid var(--color02);
 }
