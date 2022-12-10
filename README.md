@@ -150,3 +150,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 37](https://cssbattle.dev/play/37)
 [html solution 37](solution37.html)
 [css solution 37](css/solution37.css)
+
+[challenge 38](https://cssbattle.dev/play/38)
+[html solution 38](solution38.html)
+[css solution 38](css/solution38.css)

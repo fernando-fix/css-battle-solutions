@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: #293462;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background: #FFF1C1;
+}
+
+div:before {
+    content: "";
+    position: absolute;
+    background-color: #FE5F55;
+    height: 150px;
+    width: 100px;
+    left: 200px;
+    border-bottom: 50px solid #A64942;
+}
+
+div:after {
+    content: "";
+    position: absolute;
+    background-color: #FE5F55;
+    height: 100px;
+    width: 150px;
+    top: 200px;
+    border-right: 50px solid #A64942;
+}
