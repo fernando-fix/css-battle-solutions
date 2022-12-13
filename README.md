@@ -154,3 +154,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 38](https://cssbattle.dev/play/38)
 [html solution 38](solution38.html)
 [css solution 38](css/solution38.css)
+
+[challenge 39](https://cssbattle.dev/play/39)
+[html solution 39](solution39.html)
+[css solution 39](css/solution39.css)
