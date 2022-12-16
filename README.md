@@ -166,3 +166,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 41](https://cssbattle.dev/play/41)
 [html solution 41](solution41.html)
 [css solution 41](css/solution41.css)
+
+[challenge 42](https://cssbattle.dev/play/42)
+[html solution 42](solution42.html)
+[css solution 42](css/solution42.css)
