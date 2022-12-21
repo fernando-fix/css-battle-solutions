@@ -1,0 +1,24 @@
+body {
+    background-color: #6592CF;
+}
+
+div {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 110px;
+    height: 242px;
+    overflow: hidden;
+}
+
+span {
+    box-sizing: border-box;
+    display: block;
+    height: 242px;
+    width: 140px;
+    border: 30px solid #243D83;
+    border-radius: 70px;
+    transform: translateX(-50%);
+    -webkit-box-reflect: right -30px;
+}

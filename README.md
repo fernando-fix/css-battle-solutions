@@ -170,3 +170,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 42](https://cssbattle.dev/play/42)
 [html solution 42](solution42.html)
 [css solution 42](css/solution42.css)
+
+[challenge 43](https://cssbattle.dev/play/43)
+[html solution 43](solution43.html)
+[css solution 43](css/solution43.css)
