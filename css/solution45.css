@@ -1,0 +1,40 @@
+body {
+    background: #1A4341;
+}
+
+:before,
+:after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+body:before {
+    width: 90px;
+    height: 120px;
+    border: 30px solid #998235;
+    top: -30px;
+}
+
+body:after {
+    width: 270px;
+    height: 30px;
+    background-color: #998235;
+    bottom: 30px;
+}
+
+div {
+    width: 30px;
+    height: 100%;
+    background-color: #F3AC3C;
+    top: 0;
+    z-index: 1;
+}
+
+div:before {
+    width: 210px;
+    height: 180px;
+    border: 30px solid #F3AC3C;
+    bottom: 90px;
+}
