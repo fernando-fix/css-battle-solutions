@@ -1,0 +1,32 @@
+body {
+    background-color: #293462;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: #FFF1C1;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #FE5F55;
+    height: 150px;
+    width: 150px;
+}
+
+span:nth-of-type(1) {
+    transform: translate(-33px, -10px) rotate(45deg);
+}
+
+span:nth-of-type(2) {
+    transform: translate(-145px, 60px) rotate(45deg);
+}
