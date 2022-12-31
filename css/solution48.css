@@ -1,0 +1,37 @@
+body {
+    background-color: #293462;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 200px;
+    height: 120px;
+}
+
+.red-box {
+    width: 200px;
+    height: 120px;
+    background: #A64942;
+    border-radius: 20px;
+    position: absolute;
+}
+
+.orange-box {
+    width: 200px;
+    height: 100px;
+    background: #FE5F55;
+    border-radius: 20px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sm-box {
+    height: 40px;
+    width: 140px;
+    background-color: #A64942;
+    border-radius: 20px;
+}

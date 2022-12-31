@@ -190,3 +190,7 @@ My solutions for the css battle site from the https://cssbattle.dev/
 [challenge 47](https://cssbattle.dev/play/47)
 [html solution 47](solution47.html)
 [css solution 47](css/solution47.css)
+
+[challenge 48](https://cssbattle.dev/play/48)
+[html solution 48](solution48.html)
+[css solution 48](css/solution48.css)
